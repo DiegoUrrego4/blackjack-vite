@@ -8,7 +8,7 @@ const defineAsValue = cardValue => {
 };
 
 /**
- * Esta función devuelve un valor numérico dependiendo de la carta recibida
+ * Esta función devuelve un valor numérico de la carta dependiendo de la carta recibida
  * @param {String} carta
  * @returns {Number}
  */

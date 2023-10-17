@@ -1,6 +1,5 @@
-// Esta función me permite tomar una carta
 /**
- *
+ * Esta función me permite tomar una carta
  * @param {Array<String>} deck - Ejemplo: ['5S', '8S', 'AD', ... ,'5H']
  * @returns {String}
  */
